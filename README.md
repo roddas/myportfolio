@@ -6,3 +6,4 @@ This project is the site that contains all the informations about my professiona
 
 ## Architecture diagram
 
+![arquitecture diagram](https://user-images.githubusercontent.com/9947506/202933112-ab467710-5a24-4439-bc9e-5c1384f1a67c.png)
